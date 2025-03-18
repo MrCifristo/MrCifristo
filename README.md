@@ -2,7 +2,7 @@
 🌟 About Me<br>👨‍💻 Tech Enthusiast | Startup Founder | Software Developer<br><br>🚀 Currently working on: Building innovative software solutions, SaaS platforms, and exploring blockchain applications.<br>🤝 Looking to collaborate on: Cutting-edge web projects, decentralized applications, and scalable backend systems.<br>💡 Looking for help with: Advanced backend architectures, cloud deployment strategies, and high-performance computing.<br>🌱 Currently learning: ARM bare-metal development, Big Data applied with Machine Learning, and optimizing web performance.<br>🛠️ Tech Stack:<br>Frontend: React ⚛️ | Next.js 🚀 | TailwindCSS 🎨<br>Backend: Node.js 🟢 | NestJS 🏗️ | PostgreSQL 🛢️ | MongoDB 🍃<br>Blockchain: Ethereum 🔷 | Smart Contracts ✨ | Web3.js<br>🎯 Ask me about: Web development, blockchain, SaaS business models, and software scalability.<br>⚡ Fun fact:  I enjoy breaking down complex systems, whether it's coding, economic theories, or game mechanics. I also love merging tech with real-world applications and making ideas come to life!<br><br>
 
 ## 💼My Startup - ALBRAN Industries
-[![ALBRAN Web]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.flaticon.com/free-icon/internet_2721725?term=website&related_id=2721725))](https://www.albranindustries.com/)
+[![ALBRAN Web](https://www.flaticon.com/free-icon/internet_2721725?term=website&related_id=2721725)](https://www.albranindustries.com/)
 
 
 ## 🌐 Socials:
